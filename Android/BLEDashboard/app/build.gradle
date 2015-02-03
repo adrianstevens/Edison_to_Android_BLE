@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "com.beetroot.bleconnect"
+        applicationId "com.beetroot.bledashboard"
         minSdkVersion 18
         targetSdkVersion 21
         versionCode 1
